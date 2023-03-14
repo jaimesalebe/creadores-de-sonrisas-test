@@ -1,0 +1,19 @@
+{
+    "projects": [
+        {
+            "title": "Barrio Tiburon",
+            "description": "La fundación organizó pequeñas actividades en el parque local, como juegos, deportes y manualidades. Pronto, la iniciativa se expandió y comenzaron a organizar eventos más grandes, como fiestas de cumpleaños para niños que no podían permitírselo, entregas de juguetes y ropa para familias de bajos recursos, y actividades educativas para jóvenes.",
+            "image": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+        },
+        {
+            "title": "Barrio Las Americas",
+            "description": "La Fundación decidió centrarse en la educación y el desarrollo emocional de los niños en este barrio. Trabajaron con las escuelas locales para proporcionar recursos educativos adicionales y organizar talleres de arte y música para los niños. También contrataron a psicólogos y terapeutas para trabajar con los niños y sus familias en temas de salud mental y bienestar emocional.",
+            "image": "https://images.unsplash.com/photo-1524069290683-0457abfe42c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+        },
+        {
+            "title": "Barrio Villa Estadio",
+            "description": " la fundación se dio cuenta de que muchos niños en el barrio no tenían acceso a libros y no tenían un lugar tranquilo para estudiar y hacer su tarea después de la escuela. La fundación decidió tomar acción y construyó una pequeña biblioteca comunitaria y sala de estudio en el centro de la Villa Estadio.",
+            "image": "https://images.unsplash.com/photo-1542810634-71277d95dcbb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+        }
+    ]
+}
